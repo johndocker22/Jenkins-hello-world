@@ -321,7 +321,7 @@
             </div>
             <div class="footer-item" data-aos="fade-up" data-aos-duration="3000">
                 <h2>Our Franchise</h2>
-                <p><a href="#">Delhi</a></p>
+                <p><a href="#">Cuttack</a></p>
                 <p><a href="#">Mumbai</a></p>
                 <p><a href="#">Pune</a></p>
                 <p><a href="#">Ahmadabad</a></p>
